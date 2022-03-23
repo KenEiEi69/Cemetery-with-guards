@@ -1,1 +1,6 @@
 # Cemetery-with-guards
+ภัคพล ป้องภัย Coding
+นฤภร เปียทิพย์ Graphic
+เมธาวี จันทร์ไทย Coding
+ชุติกาญจน์ เนติมงคลวิทย์ Coding/Graphic
+ภูรินท์ จุลจิราภรณ์ Coding
